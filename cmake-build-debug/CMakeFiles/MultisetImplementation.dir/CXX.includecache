@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sevciuc/OneDrive/Desktop/MultisetImplementation/Multiset.h
+cstddef
+-
+stdexcept
+-
+iostream
+-
+cassert
+-
+
+C:/Users/Sevciuc/OneDrive/Desktop/MultisetImplementation/main.cpp
+iostream
+-
+set
+-
+iterator
+-
+Multiset.h
+C:/Users/Sevciuc/OneDrive/Desktop/MultisetImplementation/Multiset.h
+
